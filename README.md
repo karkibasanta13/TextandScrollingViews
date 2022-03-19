@@ -1,3 +1,3 @@
 # TextandScrollingViews
 
-![scrollingtext](scrollingText/scrollingtext.gif)
+![scrollingtext](scrollingtext.gif)
